@@ -1,5 +1,6 @@
 import { useState } from "react";
 
+// Git練習コメント追加
 function ProductCategoryRow({ category }) {
   return (
     <tr>
